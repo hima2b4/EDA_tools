@@ -1,4 +1,4 @@
-#EDA Tools
+# EDA(Exploratory Data Analysis) Tools
 ## Pandas_Profiling
 Open source library for generating EDA profile reports and more
 
