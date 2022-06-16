@@ -7,7 +7,7 @@ Boruta＋SHAP & ICE + dtreeviz
 
 **※簡易の前処理（不要データは基本削除）ではなく、欠損値や異常データを残したい等の前処理を行いたい場合はコレ→** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hima2b4/Auto_Profiling/blob/master/Data_Preprosessing.ipynb)
 
-**※すべての特徴量でSHAP+ICE（回帰･二値）はコレ→**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hima2b4/Auto_Profiling/blob/master/SHAP%2Bdtreeviz.ipynb)　**SHAP（マルチクラス）はコレ→**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hima2b4/Auto_Profiling/blob/master/SHAP%2Bdtreeviz_Multi-class.ipynb)　
+**※すべての特徴量でSHAP+ICE（回帰･二値）はコレ→**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hima2b4/Auto_Profiling/blob/master/SHAP%2Bdtreeviz.ipynb)　**、SHAP（マルチクラス）はコレ→**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hima2b4/Auto_Profiling/blob/master/SHAP%2Bdtreeviz_Multi-class.ipynb)　
 
 ## DataPrep
 DataPrep.EDA is the fastest and the easiest EDA (Exploratory Data Analysis) tool in Python. It allows you to understand a Pandas/Dask DataFrame with a few lines of code in seconds.
