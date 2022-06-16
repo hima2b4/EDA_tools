@@ -2,7 +2,7 @@
 ## EDA⇒特徴量選択⇒決定木
 DataPrep + BorutaSHAP + dtreeviz
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hima2b4/Auto_Profiling/blob/master/EDA⇒特徴量選択⇒決定木.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hima2b4/Auto_Profiling/blob/master/Bruta+SHAP+dtreeviz.ipynb)
 ：クリックでGoogle Colab起動。ランタイム実行、[ファイル選択] でcsvファイル指定
 
 ## DataPrep
