@@ -1,6 +1,6 @@
 # EDA（Exploratory Data Analysis） Tools
-## EDA⇒特徴量選択⇒決定木
-DataPrep + BorutaSHAP + dtreeviz
+## 前処理⇒特徴量選択⇒特徴量と目的変数の関係を可視化⇒決定木
+Boruta＋SHAP & ICE + dtreeviz
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hima2b4/Auto_Profiling/blob/master/Bruta%2BSHAP%2Bdtreeviz.ipynb)
 ：クリックでGoogle Colab起動。ランタイム実行、[ファイル選択] でcsvファイル指定
