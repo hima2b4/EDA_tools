@@ -1,6 +1,9 @@
 # EDA（Exploratory Data Analysis） Tools
 ## PyGWalker
+Tableau風 Python BIツール
+https://qiita.com/hima2b4/items/dfdfb77cf3a588f4131a
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hima2b4/EDA_tools/blob/master/Pythonで視覚化[PyGWalker編].ipnyb)
+：クリックでGoogle Colab起動。ランタイム実行、[ファイル選択] でcsvファイル指定
 
 ## 前処理 ⇒ 特徴量選択 ⇒ 予測値との関係を可視化 ⇒ 決定木
 Boruta＋SHAP & ICE + dtreeviz
